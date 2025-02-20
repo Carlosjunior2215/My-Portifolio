@@ -96,7 +96,7 @@ body {
     flex-direction: column;
 
     width: 50%;
-    height: 100vh;
+    height: 65vh;
 
     position: fixed;
     right: 0;
@@ -429,7 +429,7 @@ body {
   z-index: -1;
 
   background:
-    linear-gradient(90deg, transparent 30%, var(--color-black)),
+    linear-gradient(272deg, transparent 65%, var(--color-black)),
     linear-gradient(180deg, transparent 30%, var(--color-black)),
     linear-gradient(0deg, transparent 65%, var(--color-black));
 }
